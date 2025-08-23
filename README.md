@@ -27,6 +27,9 @@
 • Email: romeocaraig19@gmail.com
 
 • Facebook: Romeo Tusi Caraig III
+
+## 
+"_Trying will help you figure things out_"
 <!--
 **Romeo-Tusi-Caraig-III/Romeo-Tusi-Caraig-III** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
