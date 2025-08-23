@@ -7,20 +7,18 @@
 
 • Goal: To become a skilled Web and Mobile Application Developer and be a skilled Computer Technician
 
-• Interested in Computer Hardware, Machines, and System
+• Interested in UI/UX Design, Computer Hardware, Machines, and System
 ## Skills
-• Languages: Python, Dart, SQL
+• Languages: Python, C#, SQL
 
-• Frameworks/Tools: Flask, Flutter, Git, GitHub
+• Frameworks/Tools: Visual Studio, Git, GitHub
 
 • Other: Building, Maintaining, Fixing System Units
 
 ## Current Projects
 • Learning Git and GitHub for version control
 
-• Developing practice projects in Python and Flutter
-
-• Creating small apps as portfolio projects
+• Learning and Developing practices projects in Phyton and SQL
 
 • Learning and Practicing building system units
 
